@@ -1,4 +1,4 @@
-module zcasbin_mgo
+module github.com/zlyuancn/zcasbin_mgo
 
 go 1.12
 
